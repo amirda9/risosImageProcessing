@@ -1,0 +1,16 @@
+asgiref==3.3.4
+certifi==2021.5.30
+fastapi==0.65.2
+chardet==3.0.4
+dlib==19.22.0
+requests==2.25.1
+cmake==3.20.5
+pydantic==1.8.2
+numpy==1.21.0
+opencv-python==4.5.2.54
+scipy==1.7.0
+scikit-learn==0.24.2
+joblib==1.0.1
+pandas==1.2.5
+uvicorn==0.14.0
+sklearn
